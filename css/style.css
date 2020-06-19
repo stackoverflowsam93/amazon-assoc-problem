@@ -1,0 +1,14 @@
+#container{
+    display: flex;
+    height: 1000px;
+    align-items: center;
+    justify-content: center;
+}
+
+.innerDiv{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    width: 33%;
+    height: 100%;
+}
